@@ -69,7 +69,7 @@ O(nlogn) -> O(6log6)
 ```
 
 
-## Proje-23 Binary Search Tree Projesi
+## Proje-3 Binary Search Tree Projesi
 
 ```
 
